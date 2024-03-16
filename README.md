@@ -1,4 +1,5 @@
-# Outline
+# Curso https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ
+# Outline 
 
 ## 01 – Visão Geral do Curso
 
